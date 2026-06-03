@@ -1,0 +1,100 @@
+student0,English Language,Biology,Modern Language,Electronics,Music,Physical Education,Computer Science,French,German
+student1,Computer Science,Drama & Theatre Studies,English Language,German,Geography,Religious Studies,French,Physics,Music
+student2,Mathematics,Electronics,English Literature,Modern Language,Biology,Computer Science,Geography,Physics,Religious Studies
+student3,Religious Studies,Modern Language,Biology,Computer Science,Physical Education,Physics,English Literature,Electronics,History
+student4,German,French,Geography,English Literature,English Language,Chemistry,Biology,Modern Language,Music
+student5,Electronics,Modern Language,Physical Education,Biology,Physics,Chemistry,Music,Religious Studies,Computer Science
+student6,Geography,Mathematics,Music,Physics,Electronics,Biology,History,Spanish,Modern Language
+student7,Physical Education,Religious Studies,Computer Science,Biology,Spanish,Physics,English Language,Chemistry,History
+student8,French,History,Religious Studies,Biology,Modern Language,Physical Education,German,Music,Physics
+student9,Spanish,Religious Studies,Computer Science,History,Physics,Physical Education,English Literature,Electronics,French
+student10,Biology,Drama & Theatre Studies,German,Physics,English Literature,Chemistry,Physical Education,French,Spanish
+student11,Modern Language,French,Biology,Physical Education,Physics,English Language,History,Mathematics,Computer Science
+student12,German,Religious Studies,History,Physics,Music,Physical Education,Chemistry,Computer Science,French
+student13,Geography,Biology,French,English Literature,German,Electronics,Drama & Theatre Studies,Modern Language,History
+student14,Music,Drama & Theatre Studies,History,German,Geography,Mathematics,Modern Language,French,Physical Education
+student15,History,Music,Modern Language,Physics,English Literature,Mathematics,Geography,German,Physical Education
+student16,English Literature,French,Electronics,History,Biology,Computer Science,German,Music,English Language
+student17,Biology,Religious Studies,Electronics,Geography,Music,English Language,French,Mathematics,Spanish
+student18,Geography,Modern Language,English Language,Physical Education,Biology,Spanish,Drama & Theatre Studies,Mathematics,Electronics
+student19,Physics,French,Spanish,Physical Education,Modern Language,English Language,Geography,Electronics,Mathematics
+student20,Computer Science,Religious Studies,Chemistry,English Literature,German,Mathematics,Spanish,Physics,Electronics
+student21,Physical Education,English Literature,Geography,Physics,Religious Studies,History,French,Music,Electronics
+student22,Spanish,Physics,Chemistry,History,English Language,Drama & Theatre Studies,Geography,German,French
+student23,French,Spanish,Chemistry,Geography,Physical Education,Physics,Mathematics,Electronics,Modern Language
+student24,English Literature,Spanish,English Language,Modern Language,Biology,Computer Science,Mathematics,German,Physical Education
+student25,Biology,Computer Science,Physical Education,Music,Mathematics,English Literature,English Language,Spanish,Chemistry
+student26,English Literature,Music,Drama & Theatre Studies,Modern Language,Geography,English Language,Biology,History,Computer Science
+student27,French,Biology,Physical Education,German,English Literature,Computer Science,English Language,Physics,Electronics
+student28,Spanish,Mathematics,French,Music,Physics,Biology,English Language,German,Physical Education
+student29,English Language,English Literature,Mathematics,Biology,History,Religious Studies,Chemistry,Physical Education,Geography
+student30,Mathematics,French,Drama & Theatre Studies,Geography,German,Spanish,Physics,Computer Science,Physical Education
+student31,Chemistry,English Literature,Mathematics,Drama & Theatre Studies,History,Electronics,Modern Language,Spanish,Religious Studies
+student32,History,Chemistry,Geography,French,Modern Language,Electronics,English Language,Spanish,Computer Science
+student33,English Language,Physical Education,Modern Language,History,Religious Studies,Spanish,Geography,Electronics,German
+student34,History,Physics,Chemistry,Computer Science,Electronics,Religious Studies,English Language,Physical Education,Geography
+student35,English Language,Biology,Modern Language,Chemistry,Physical Education,Computer Science,Religious Studies,French,Electronics
+student36,Physical Education,Mathematics,Geography,Drama & Theatre Studies,Chemistry,Biology,Spanish,Religious Studies,Computer Science
+student37,German,Geography,Chemistry,Computer Science,Physics,Physical Education,Mathematics,English Literature,Religious Studies
+student38,Physical Education,Modern Language,Chemistry,English Language,Religious Studies,English Literature,Physics,History,Biology
+student39,Mathematics,German,Geography,Physics,Electronics,History,Spanish,Biology,Modern Language
+student40,Computer Science,Geography,Physical Education,Chemistry,English Literature,Mathematics,Spanish,Music,English Language
+student41,Drama & Theatre Studies,Electronics,Music,Computer Science,French,Physical Education,Geography,History,Modern Language
+student42,Electronics,Physical Education,English Literature,English Language,German,Biology,Modern Language,Drama & Theatre Studies,Geography
+student43,Physical Education,Geography,English Literature,French,German,History,Modern Language,Chemistry,Drama & Theatre Studies
+student44,Electronics,Geography,Modern Language,Drama & Theatre Studies,History,Computer Science,Physics,French,Mathematics
+student45,Physical Education,Religious Studies,Biology,Music,Modern Language,Computer Science,German,Drama & Theatre Studies,French
+student46,Drama & Theatre Studies,Physical Education,English Literature,Music,Religious Studies,French,German,Mathematics,Electronics
+student47,Geography,Chemistry,French,Mathematics,Spanish,English Language,History,Religious Studies,Electronics
+student48,History,English Literature,Drama & Theatre Studies,Physical Education,Geography,Chemistry,Religious Studies,English Language,Biology
+student49,English Language,Religious Studies,Chemistry,German,Electronics,French,Spanish,Modern Language,Music
+student50,Physical Education,Biology,English Literature,Modern Language,Religious Studies,Geography,Music,Computer Science,Electronics
+student51,Modern Language,Computer Science,Religious Studies,Biology,History,English Language,German,Chemistry,Physics
+student52,Chemistry,Physics,Mathematics,Music,Geography,Electronics,Modern Language,English Literature,French
+student53,English Language,Modern Language,German,History,Mathematics,Religious Studies,Physics,Electronics,English Literature
+student54,English Language,History,Religious Studies,French,English Literature,Physics,Music,Mathematics,Biology
+student55,Mathematics,French,English Language,Biology,Spanish,English Literature,Religious Studies,Electronics,German
+student56,Biology,Physical Education,Chemistry,Spanish,Mathematics,English Language,English Literature,Geography,Computer Science
+student57,History,Computer Science,Modern Language,Chemistry,Geography,Religious Studies,Physics,English Language,Spanish
+student58,Chemistry,Electronics,English Literature,Music,Modern Language,Drama & Theatre Studies,Religious Studies,Physical Education,Geography
+student59,Chemistry,History,Spanish,Physical Education,Modern Language,Biology,Geography,Computer Science,Mathematics
+student60,German,Computer Science,Chemistry,Biology,Drama & Theatre Studies,English Literature,Geography,Music,Mathematics
+student61,French,Biology,Spanish,Physical Education,History,Religious Studies,Electronics,Physics,Drama & Theatre Studies
+student62,Electronics,Physics,French,Religious Studies,Drama & Theatre Studies,English Language,History,Music,Physical Education
+student63,Mathematics,English Literature,German,English Language,Biology,Modern Language,Electronics,Geography,Music
+student64,Mathematics,Computer Science,Music,Modern Language,Biology,Chemistry,Physics,Spanish,Geography
+student65,Music,Computer Science,Geography,German,Chemistry,English Language,Spanish,History,Mathematics
+student66,Computer Science,Biology,Geography,History,German,English Language,French,English Literature,Modern Language
+student67,Physical Education,Geography,English Literature,Drama & Theatre Studies,Music,History,French,Chemistry,Mathematics
+student68,Biology,English Language,French,Religious Studies,Spanish,German,History,Mathematics,Music
+student69,French,English Literature,Spanish,Physical Education,English Language,Biology,Religious Studies,Chemistry,Physics
+student70,Geography,Computer Science,Modern Language,Spanish,Music,Physics,Mathematics,Electronics,Religious Studies
+student71,History,Mathematics,Electronics,French,German,Computer Science,Religious Studies,Physical Education,English Language
+student72,Drama & Theatre Studies,Spanish,History,Religious Studies,Physical Education,Computer Science,Chemistry,Biology,Geography
+student73,Chemistry,Music,Geography,English Literature,Electronics,French,Computer Science,English Language,Spanish
+student74,Physical Education,Drama & Theatre Studies,Physics,German,French,History,Music,Computer Science,Chemistry
+student75,Mathematics,Chemistry,Computer Science,Religious Studies,English Literature,Biology,History,Spanish,Drama & Theatre Studies
+student76,Religious Studies,Biology,German,Physical Education,Computer Science,English Literature,History,Physics,Spanish
+student77,Biology,English Literature,French,Computer Science,Electronics,Religious Studies,Music,Chemistry,English Language
+student78,German,Drama & Theatre Studies,Biology,Music,Physical Education,English Literature,Chemistry,Computer Science,Religious Studies
+student79,English Literature,Computer Science,Physics,Biology,German,Mathematics,Electronics,History,Spanish
+student80,Computer Science,History,Biology,English Literature,Physics,Mathematics,Spanish,Music,Geography
+student81,Geography,French,Modern Language,Chemistry,Computer Science,Spanish,Physical Education,Music,Physics
+student82,Physical Education,Computer Science,English Language,Music,French,Physics,History,Drama & Theatre Studies,Chemistry
+student83,Music,Electronics,Religious Studies,Physical Education,Biology,Drama & Theatre Studies,English Language,Spanish,Modern Language
+student84,Physics,Biology,Chemistry,English Literature,History,Physical Education,Electronics,Geography,German
+student85,English Language,Geography,Physical Education,Computer Science,French,Religious Studies,German,Drama & Theatre Studies,Modern Language
+student86,Mathematics,Electronics,English Literature,Geography,Biology,French,Drama & Theatre Studies,German,Music
+student87,French,Religious Studies,Biology,Chemistry,Mathematics,Drama & Theatre Studies,Music,Physics,Physical Education
+student88,Computer Science,Electronics,Physics,English Language,Chemistry,English Literature,Drama & Theatre Studies,German,Religious Studies
+student89,Music,Biology,Mathematics,French,Religious Studies,German,History,English Literature,Spanish
+student90,Mathematics,English Literature,Drama & Theatre Studies,English Language,Religious Studies,Modern Language,Physics,German,Spanish
+student91,Physics,Mathematics,Electronics,History,Physical Education,Spanish,English Language,Modern Language,Geography
+student92,Modern Language,German,Music,Religious Studies,French,Computer Science,History,Spanish,Drama & Theatre Studies
+student93,English Literature,French,Music,History,Biology,Computer Science,Physics,Geography,Electronics
+student94,History,Chemistry,English Literature,French,English Language,Computer Science,Electronics,Geography,Drama & Theatre Studies
+student95,Geography,Physical Education,English Language,German,Physics,Electronics,Religious Studies,Mathematics,French
+student96,French,Religious Studies,English Literature,English Language,German,Electronics,Spanish,Physical Education,Physics
+student97,Computer Science,Physics,Spanish,Mathematics,Music,Biology,Drama & Theatre Studies,Modern Language,History
+student98,Physics,Music,History,French,Religious Studies,English Literature,Mathematics,Geography,Chemistry
+student99,Biology,French,English Language,English Literature,Music,Physics,Spanish,German,Computer Science
