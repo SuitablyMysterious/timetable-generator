@@ -2,7 +2,6 @@ use csv::Writer;
 use rand::prelude::IndexedRandom;
 
 pub fn run(num_teachers: u32) -> Result<(), Box<dyn std::error::Error>> {
-
     let subjects = vec![
         vec!["Mathematics", "", "", ""],
         vec!["English Language", "English Literature", "", ""],
