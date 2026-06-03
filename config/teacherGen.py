@@ -1,7 +1,7 @@
-import csv
+import csv, time
 from random import choice
 
-numTeachers = 10
+numTeachers = 1000000
 
 subjects = [
     ["Mathematics",0,0,0],
@@ -24,10 +24,15 @@ subjects = [
     ["Electronics",0,0,0],
 ]
 
+start = time.perf_counter()
+
 with open('teachers.csv','w') as csvfile:
     writer = csv.writer(csvfile)
     for teacher in range(numTeachers):
         teacherID = [f'teacher{teacher}']
         teacherSubjects = choice(subjects)
         writer.writerow(teacherID + teacherSubjects)
+
+elapsed = time.perf_counter() - start
+print(f"Took {elapsed:.3f}s")
         
