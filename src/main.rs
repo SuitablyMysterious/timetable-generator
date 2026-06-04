@@ -1,7 +1,4 @@
-mod config {
-    pub mod student_gen;
-    pub mod teacher_gen;
-}
+mod config;
 
 use std::time::Instant;
 
